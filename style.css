@@ -13,7 +13,6 @@ spline-viewer {
     position: absolute;
     width: 100%;
     height: fit-content;
-    bottom: 70px;
     right: 100px;
 }
 #home{
