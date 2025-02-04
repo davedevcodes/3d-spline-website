@@ -23,7 +23,7 @@ spline-viewer {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 100%;
+    width: 90%;
     padding: 10px 20px;
     background: rgba(255, 255, 255, 0.2);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -35,7 +35,7 @@ spline-viewer {
 .logo {
     font-size: 1.5em;
     font-weight: bold;
-    color: #333;
+    color: #ccc;
 }
 
 .nav-links {
@@ -52,13 +52,13 @@ spline-viewer {
 
 .nav-links a {
     text-decoration: none;
-    color: #333;
+    color: #ccc;
     font-size: 1em;
     transition: color 0.3s;
 }
 
 .nav-links a:hover {
-    color: #007BFF;
+    color: #fff;
 }
 
 .nav-links a::before {
