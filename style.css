@@ -14,6 +14,7 @@ spline-viewer {
     width: 100%;
     height: fit-content;
     bottom: 70px;
+    right: 100px;
 }
 #home{
     background: #000;
